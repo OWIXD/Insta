@@ -12,4 +12,4 @@ $ cd Insta
 
 $ git pull
 
-$ python Run.p
+$ python Run.py
